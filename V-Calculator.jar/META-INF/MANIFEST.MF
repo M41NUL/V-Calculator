@@ -1,0 +1,41 @@
+Manifest-Version: 1.0
+Created-By: MAINUL - X
+Main-Class: com.mainulx.calculator.Main
+Class-Path: .
+
+Name: V-CALCULATOR
+Implementation-Title: V-CALCULATOR
+Implementation-Version: 1.0.0
+Implementation-Vendor: MAINUL - X
+Implementation-Vendor-Id: com.mainulx
+
+Name: Developer-Info
+Developer: Md. Mainul Islam
+Owner: MAINUL - X
+GitHub-Username: M41NUL
+GitHub-URL: https://github.com/M41NUL
+WhatsApp: +8801308850528
+Telegram: @mdmainulislaminfo
+Email: githubmainul@gmail.com
+
+Name: Build-Info
+Build-Date: 2026-02-28
+Build-JDK: 17.0.2
+Build-OS: Windows/Linux/Mac
+
+Name: License
+License-Type: MIT
+License-URL: https://opensource.org/licenses/MIT
+Copyright: Copyright (c) 2026 MAINUL - X
+All-Rights-Reserved: true
+
+Name: Features
+Basic-Operations: +, -, ×, ÷
+Scientific-Functions: sin, cos, tan
+Logarithmic: log, ln
+Power-Functions: x^y, √
+Factorial: x!
+Constants: π, e
+Percentage: yes
+Degree-Radian: toggle
+Second-Mode: yes
